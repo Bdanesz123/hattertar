@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    box-sizing: border-box;
+    
+}
+
+body{
+    height: 100%;
+    weight: 100%;
+    background-color: lig;
+    font-family: sans-serif;
+    display: ;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    transition: 0.2 linear;
+    color:White;
+
+}
+.navbar {
+    overflow: hidden;
+    background-color: black;
+  }
+  
+  .navbar a {
+    float: left;
+    font-size: 24px;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    margin-bottom: 13px;
+    margin-top: 13px;
+    font-family: "book antiqua";
+    margin-right: 20px;  
+  }
+  
+  
+  .navbar a:hover, .dropdown:hover .dropbtn {
+    background-color: #b3b3ff;
+  }
+  
+
+  .kezdolap{
+      text-shadow: 2px 2px grey;
+      margin-right:75px !important;
